@@ -73,4 +73,4 @@ ggplot(data = dfn) +
         legend.position = "none")
 
 ### saving the plot
-ggsave("election_viz.png", width = 9, height = 7.0)
+ggsave("election_viz.png", width = 9.0, height = 7.0)
