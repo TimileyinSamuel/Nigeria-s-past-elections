@@ -8,7 +8,7 @@ library(sysfonts)
 library(showtext)
 
 ### loading data set
-dfn <- read_csv("")
+dfn <- read_csv("https://raw.githubusercontent.com/TimileyinSamuel/Nigeria-s-past-elections/main/nigeria_elections.csv")
 
 ### Adding fonts
 font_add_google("Anton", family = "Anton")
